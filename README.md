@@ -57,7 +57,7 @@ sudo systemctl start redis
 
 Download This project :
 ```
-git clone “ url “
+git clone https://github.com/ncu106503522/countryServer.git
 ```
 Run server :
 ```
