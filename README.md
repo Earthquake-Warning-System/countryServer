@@ -87,7 +87,7 @@ This server is in developing stage, so it have bugs we know but still not  solve
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
