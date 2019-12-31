@@ -74,11 +74,6 @@ This country server need connect to our bootstrap server to work :
 1. This server need to registered in our data base first, or our bootstrap server will not allocate user connect to your server. 
 2. If you want to register, please send your IP and Mac address to  our E-mail : "ncumwnl337@gmail.com" , we will check and add you into data base as soon as possible.
 
-This server is in developing stage, so it have bugs we know but still not  solved :
-1. Segmentation fault when receive udp packet not use our proto file to format.
-
-
-
 ## Built With
 
 * [Libev](https://github.com/enki/libev) - For nonblocking UDP server
