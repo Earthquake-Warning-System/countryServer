@@ -95,7 +95,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 
 ## Authors
-* ncu106503522
+* [ncu106503522](https://github.com/ncu106503522)
 * mwnl lab
 
 
