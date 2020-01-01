@@ -20,7 +20,7 @@ yum update –y
 yum install -y make libev libev-devel wget gcc gcc-c++ hiredis-devel redis
 ```
 3.install proto :
-```
+```sh
 mkdir proto //create a folder
 cd proto
 wget https://github.com/google/protobuf/releases/download/v2.6.1/protobuf-2.6.1.tar.gz 
@@ -31,7 +31,7 @@ make
 make install 
 ```
 4.install proto_c :
-```
+```sh
 mkdir proto_c //create a folder
 cd proto_c 
 wget https://github.com/protobuf-c/protobuf-c/releases/download/v1.3.1/protobuf-c-1.3.1.tar.gz 
@@ -56,7 +56,7 @@ sudo systemctl start redis
 ### Installing
 
 Download This project :
-```
+```sh
 git clone https://github.com/ncu106503522/countryServer.git
 ```
 Run server :
