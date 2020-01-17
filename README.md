@@ -1,12 +1,12 @@
 # CountryServer
 
-This server is a open source part of all system . It is use to build in several city. When a phone installed our app , it will connect to nearest server and start detecting any shake . If the phone detect a shake which like earthquake , it will alert people with ring and send a message to server . When server receives messages , it will computes the credibility from each message to determine whether the earthquake occur , if yes , it will send alert to every device connecting with it .
+This server isThis server is an open-source part of system. It is used to build in several cities. When a phone installed our app, it will connect to the nearest server and start detecting any shake. If the phone detects a shake which like earthquake, it will alert people with rings and send a message to server. When a server receives messages, it will compute the credibility from each message to determine whether the earthquake occurs, if yes, it will send alert to every device connecting with it. a open source part of all system . It is use to build in several city. When a phone installed our app , it will connect to nearest server and start detecting any shake . If the phone detect a shake which like earthquake , it will alert people with ring and send a message to server . When server receives messages , it will computes the credibility from each message to determine whether the earthquake occur , if yes , it will send alert to every device connecting with it .
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Warning : This project is developing in centos 7, so this install part is for centos 7.
+Warning: This project is developing in centos 7, so this install part is for centos 7.
 
 ### Prerequisites
 
@@ -43,7 +43,7 @@ export LD_LIBRARY_PATH=/usr/local/lib
 make 
 make install 
 ```
-If you encounter error such like
+If you encounter an error such as
 “protoc: error while loading shared libraries: libprotoc.so.9: cannot open shared object file”Use this command to solved
 ```
 export LD_LIBRARY_PATH=/usr/local/lib
@@ -71,8 +71,8 @@ Example :
 
 ## Warning
 This country server need connect to our bootstrap server to work :
-1. This server need to registered in our data base first, or our bootstrap server will not allocate user connect to your server. 
-2. If you want to register, please send your IP and Mac address to  our E-mail : "ncumwnl337@gmail.com" , we will check and add you into data base as soon as possible.
+1. This server needs to register in our database first, or our bootstrap server will not allocate users to connect to your server. 
+2. If you want to register, please send your IP and Mac address to our E-mail: "ncumwnl337@gmail.com", we will check and add you to the database as soon as possible.
 
 
 ## Contributing
